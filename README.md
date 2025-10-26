@@ -1,0 +1,2 @@
+# storefront.html
+Midterm Project
