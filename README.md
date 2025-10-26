@@ -1,5 +1,3 @@
-/* # storefront.html
-Midterm Project */
 
 <!doctype html>
 <html lang="en">
